@@ -18,6 +18,7 @@
 #![feature(slice_patterns)]
 #![feature(stmt_expr_attributes)]
 #![feature(try_from)]
+#![feature(untagged_unions)]
 
 #![deny(unsafe_code)]
 #![allow(non_snake_case)]
